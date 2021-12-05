@@ -64,7 +64,7 @@ Bei der Bildschirlupenansicht können 3 Funktionen eingestellt werden.
  ![](Images_Wohnzimmer/Bildschrimlupe_Vollbild.jpeg)
   2. Angedockt - Die Vergrößerung erscheint in einem gesonderten Fensterbereich, den Sie beliebig verschieben können.
  ![](Images_Wohnzimmer/Bildschirmlupe_Angedockt.jpeg)
-  3. Lupe - Der bereich unter dem Mauszeiger erscheint vergrößert.
+  3. Lupe - Der bereich unter dem Mauszeiger erscheint vergrößert. Die Größe der Lupe kann ebenfalls eingestellt werden
  ![](Images_Wohnzimmer/Bildschirmlupe_Lupe.png)
 Außerdem kann man einstellen, wem die Bildschirmlupe folgen soll.
 ![](Images_Wohnzimmer/Bildschirmlupe_Einstellungen2.PNG)
