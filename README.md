@@ -4,7 +4,6 @@
 ## Use Case - Sandra
 # 
 #
-# 
 ### Aufgabenstellung
 Aufgabe ist es, unter Berücksichtigung des gewählten Raumes technische Lösungen nach Sandras Wünschen zu entwickeln und anzuwenden. Der Raum für den diese Gruppe sich entschieden hat ist das Wohnzimmer.
 
@@ -18,3 +17,24 @@ Dass sie dennoch über gewisse körperliche Funktionen verfügt, ermöglicht ein
 Die Tatsache, dass Zeigefinger und Daumen (am linken Arm) funktionstüchtig sind, lässt mehr Optionen offen. Da eine Kopf- und Mundbewegung möglich ist, tritt die Möglichkeit FlipMouse verwenden zu können in den Vorschein.
 
 Die Klientin Sandra hofft, Licht, Temperatur, Jalousien und viele elektronische Geräte wie Fernseher, Musikanlagen und Spielzeug selbstständig steuern zu können. Außerdem möchte sie den Computer so steuern können, dass sie online gehen, E-Mails schreiben und beantworten kann. Außerdem möchte sie mit Hilfe von Phillips Hue Go oder Infrarotlicht Sounds kreieren, Computerspiele adaptieren und visuelle Effekte erzeugen. Ihr letzter Wunsch ist, dass sie ohne Hilfe ihr Smartphone zum SMS Versenden oder Anrufe tätigen verwenden kann.
+#
+## AsTeRICs Grid
+Was ist das
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+#
+## Eingabegerät - FABI
+ Was ist das
+# FABI Einstellungen
