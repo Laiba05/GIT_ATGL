@@ -91,3 +91,17 @@ Um die Lesefunktion zu aktivieren, muss der Text den man vorgelesen haben möcht
 ![](Images_Wohnzimmer/Bildschirmlupe_Menu_Settings.jpeg)
 
 Die Einstellungen der Bildschirmlupe ermöglichen es die Geschwindigkeit des Sprechers zu modifizieren, genau so wie die Sprache und die Stimme des Sprechers.
+
+### Spracherkennung
+Mit der Spracherkennung von Windows 11 kann man in innerhalb kürzester Zeit Texte diktieren. Die Funktion wird automatisch aktiviert und kann direkt benutzt werden.
+#### Aktivierung - Spracherkennung
+Um die Spracherkennung zu aktivieren geht man auf Start -> Einstellungen -> Erleichterte Bedienung -> Spracherkennung
+
+![](Images_Wohnzimmer/Spracherkennung_Einstellungen.PNG)
+
+#### Anwendung - Spracherkennung
+Mithilfe eines Spracheingabegeräts können Befehle mit der Spracherkennung ausgeführt werden. Hierzu drückt man den Knopf mit dem Symbol eines Mikrofons und gibt einen Befehl per Headset oder Mikrofon ein.
+Falls die Bedienung den Befehl verstanden hat führt er ihn aus. Wenn er den Befehl nicht verstanden hat, zeigt die Anzeige den Text "Wie bitte?". Danach bekommt man die Möglichkeit nochmal einen Befehl einzugeben.
+
+![](Images_Wohnzimmer/Spracherkennung_Menu.PNG)
+
