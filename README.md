@@ -53,19 +53,29 @@ Beschreibung
 ## Betriebssystem (Windows) - Accesibility
 TEXT
 ### Bildschirmlupe
+
 Die Bildschrimlupe ist eine Funktion von Windows die dabei helfen soll, den akutellen Bildschriminhalt zu vergrößern. Da Sandra nur Buchstaben in dreifacher Größe erkennen, löst diese Funktion ihre Probleme wenn sie mit dem Computer arbeitet.
 ### Aktivierung + Einstellung - Bildschirmlupe
 Um die Bildschirmlupe zu aktivieren kann die Windows-Logo-Taste + Plus-Taste (+) verwendet werden. Das Deaktivieren der Bildschirmlupe erfolgt über Windows-Logo-Taste + ESC.
 Da es für Sandra leichter ist die Maus zu bedienen, kann einfach das Start-Symbol wählen -> Einstellungen -> Erleichterte Bedienung -> Bildschirmlupe -> Bildschirmlupe aktivieren.
+
 ![](Images_Wohnzimmer/Bildschirmlupe_Einstellungen1.PNG)
+
 In den Einstellungen kann der Zoomfaktor verändert werden, sowie die Zoomintervalle. Außerdem wird durch die Bedingung "Bildschirmlupe nach der Anmeldung starten" und "Bildschrimlupe vor der Anmeldung für alle Benutzer starten" die tägliche Anwendung der Bildschirmlupe erleichtert.
 Bei der Bildschirlupenansicht können 3 Funktionen eingestellt werden.
-  1. Vollbild - Der gesamte Bildschriminhalt wird vergrößert dargestellt. Auf dem Monitor sieht man immer einen Ausschnitt
- ![](Images_Wohnzimmer/Bildschrimlupe_Vollbild.jpeg)
+
+  1. Vollbild - Der gesamte Bildschriminhalt wird vergrößert dargestellt. Auf dem Monitor sieht man immer einen Ausschnitt.
+ 
+  ![](Images_Wohnzimmer/Bildschrimlupe_Vollbild.jpeg)
+  
   2. Angedockt - Die Vergrößerung erscheint in einem gesonderten Fensterbereich, den Sie beliebig verschieben können.
+  
  ![](Images_Wohnzimmer/Bildschirmlupe_Angedockt.jpeg)
+ 
   3. Lupe - Der bereich unter dem Mauszeiger erscheint vergrößert. Die Größe der Lupe kann ebenfalls eingestellt werden
+
  ![](Images_Wohnzimmer/Bildschirmlupe_Lupe.png)
+ 
 Außerdem kann man einstellen, wem die Bildschirmlupe folgen soll.
 ![](Images_Wohnzimmer/Bildschirmlupe_Einstellungen2.PNG)
 
@@ -75,5 +85,7 @@ Außerdem kann man einstellen, wem die Bildschirmlupe folgen soll.
 Mit der Funktion "-" und "+" kann die Verkleinerung bzw. Vergrößerung der Bildschrimlupe gesteuert werden. Die Anzeige zwischen denen zeigt den aktuellen Zoom an. Wobei 100% das Minimum ist und 1600% das Maximum.
 
 Um die Lesefunktion zu aktivieren, muss der Text den man vorgelesen haben möchte, markiert werden. Danach drückt man einfach auf "Play". Mit der Funktion "Ab hier lesen" (der Mauszeiger mit dem kleinen Lautsprecher) kann man eine Zeile auswählen, die schließlich vorgelesen wird.
+
 ![](Images_Wohnzimmer/Bildschirmlupe_Menu_Settings.jpeg)
+
 Die Einstellungen der Bildschirmlupe ermöglichen es die Geschwindigkeit des Sprechers zu modifizieren, genau so wie die Sprache und die Stimme des Sprechers.
