@@ -20,20 +20,20 @@ Die Klientin Sandra hofft, Licht, Temperatur, Jalousien und viele elektronische 
 #
 ## AsTeRICs Grid
 Was ist das
-# Bild
-Beschreibung
-# Bild
-Beschreibung
-# Bild
-Beschreibung
-# Bild
-Beschreibung
-# Bild
-Beschreibung
-# Bild
-Beschreibung
-# Bild
-Beschreibung
+![](Images_Grid_WZ/01_Main_Grid.jpg)
+# Beschreibung
+![](Images_Grid_WZ/02_WZmain_Grid.jpg)
+# Beschreibung
+![](Images_Grid_WZ/03_TemperaturMain_Grid.jpg)
+# Beschreibung
+![](Images_Grid_WZ/04_LichtDimmenMain_Grid.jpg)
+# Beschreibung
+![](Images_Grid_WZ/05_WZmediensteuerung_Grid.jpg)
+# Beschreibung
+![](Images_Grid_WZ/06_Radiosteuerung_Grid.jpg)
+# Beschreibung
+![](Images_Grid_WZ/07_WZ_TVsteuerung_Grid.jpg)
+# Beschreibung
 #
 ## Eingabegerät - FlipMouse
  Was ist das
