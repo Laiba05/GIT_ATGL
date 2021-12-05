@@ -35,14 +35,24 @@ Was ist das
 ![](Images_Grid_WZ/07_WZ_TVsteuerung_Grid.jpg)
 # Beschreibung
 #
-## Eingabegerät - FlipMouse
- Was ist das
+## Eingabegeräte - FlipMouse & FABI
+Was sind diese Geräte und wofür.
+### FlipMouse Einstellungen
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+### FlipMouse Anwendung
 ### FABI Einstellungen
 # Bild
 Beschreibung
 # Bild
 Beschreibung
+### FABI Anwendung
 #
 ## Betriebssystem (Windows) - Accesibility
 TEXT
+### Bildschirmlupe
+Die Bildschrimlupe ist eine Funktion von Windows die dabei helfen soll, den akutellen Bildschriminhalt zu vergrößern. Da Sandra nur Buchstaben in dreifacher Größe erkennen, löst diese Funktion ihre Probleme wenn sie mit dem Computer arbeitet.
+
 
