@@ -36,18 +36,20 @@ Was ist das
 #
 ## Eingabegeräte - FlipMouse & FABI
 Was sind diese Geräte und wofür.
-### FlipMouse Einstellungen
+### FlipMouse
+#### FlipMouse Einstellungen
 # Bild
 Beschreibung
 # Bild
 Beschreibung
-### FlipMouse Anwendung
-### FABI Einstellungen
+#### FlipMouse Anwendung
+### FABI
+#### FABI Einstellungen
 # Bild
 Beschreibung
 # Bild
 Beschreibung
-### FABI Anwendung
+#### FABI Anwendung
 #
 ## Betriebssystem (Windows) - Accesibility
 TEXT
