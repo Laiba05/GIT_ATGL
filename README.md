@@ -77,9 +77,11 @@ Bei der Bildschirlupenansicht können 3 Funktionen eingestellt werden.
  ![](Images_Wohnzimmer/Bildschirmlupe_Lupe.png)
  
 Außerdem kann man einstellen, wem die Bildschirmlupe folgen soll.
+
 ![](Images_Wohnzimmer/Bildschirmlupe_Einstellungen2.PNG)
 
 ### Anwendung - Bilschirmlupe
+
 ![](Images_Wohnzimmer/Bildschrimlupe_Menu.PNG)
 
 Mit der Funktion "-" und "+" kann die Verkleinerung bzw. Vergrößerung der Bildschrimlupe gesteuert werden. Die Anzeige zwischen denen zeigt den aktuellen Zoom an. Wobei 100% das Minimum ist und 1600% das Maximum.
