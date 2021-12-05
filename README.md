@@ -71,6 +71,7 @@ Außerdem kann man einstellen, wem die Bildschirmlupe folgen soll.
 
 ### Anwendung - Bilschirmlupe
 ![](Images_Wohnzimmer/Bildschrimlupe_Menu.PNG)
+
 Mit der Funktion "-" und "+" kann die Verkleinerung bzw. Vergrößerung der Bildschrimlupe gesteuert werden. Die Anzeige zwischen denen zeigt den aktuellen Zoom an. Wobei 100% das Minimum ist und 1600% das Maximum.
 
 Um die Lesefunktion zu aktivieren, muss der Text den man vorgelesen haben möchte, markiert werden. Danach drückt man einfach auf "Play". Mit der Funktion "Ab hier lesen" (der Mauszeiger mit dem kleinen Lautsprecher) kann man eine Zeile auswählen, die schließlich vorgelesen wird.
