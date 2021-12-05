@@ -95,7 +95,7 @@ Die Einstellungen der Bildschirmlupe ermöglichen es die Geschwindigkeit des Spr
 ### Spracherkennung
 Mit der Spracherkennung von Windows 11 kann man in innerhalb kürzester Zeit Texte diktieren. Die Funktion wird automatisch aktiviert und kann direkt benutzt werden.
 #### Aktivierung - Spracherkennung
-Um die Spracherkennung zu aktivieren geht man auf Start -> Einstellungen -> Erleichterte Bedienung -> Spracherkennung
+Um die Spracherkennung zu aktivieren geht man auf Start -> Einstellungen -> Erleichterte Bedienung -> Spracherkennung -> Spracherkennung aktivieren
 
 ![](Images_Wohnzimmer/Spracherkennung_Einstellungen.PNG)
 
