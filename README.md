@@ -55,7 +55,7 @@ TEXT
 ### Bildschirmlupe
 
 Die Bildschrimlupe ist eine Funktion von Windows die dabei helfen soll, den akutellen Bildschriminhalt zu vergrößern. Da Sandra nur Buchstaben in dreifacher Größe erkennen, löst diese Funktion ihre Probleme wenn sie mit dem Computer arbeitet.
-### Aktivierung + Einstellung - Bildschirmlupe
+#### Aktivierung + Einstellung - Bildschirmlupe
 Um die Bildschirmlupe zu aktivieren kann die Windows-Logo-Taste + Plus-Taste (+) verwendet werden. Das Deaktivieren der Bildschirmlupe erfolgt über Windows-Logo-Taste + ESC.
 Da es für Sandra leichter ist die Maus zu bedienen, kann einfach das Start-Symbol wählen -> Einstellungen -> Erleichterte Bedienung -> Bildschirmlupe -> Bildschirmlupe aktivieren.
 
@@ -80,7 +80,7 @@ Außerdem kann man einstellen, wem die Bildschirmlupe folgen soll.
 
 ![](Images_Wohnzimmer/Bildschirmlupe_Einstellungen2.PNG)
 
-### Anwendung - Bilschirmlupe
+#### Anwendung - Bilschirmlupe
 
 ![](Images_Wohnzimmer/Bildschrimlupe_Menu.PNG)
 
