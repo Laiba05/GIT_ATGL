@@ -2,7 +2,6 @@
 # ATGL - LABOR
 
 ## Use Case - Sandra
-# 
 #
 ### Aufgabenstellung
 Aufgabe ist es, unter Berücksichtigung des gewählten Raumes technische Lösungen nach Sandras Wünschen zu entwickeln und anzuwenden. Der Raum für den diese Gruppe sich entschieden hat ist das Wohnzimmer.
@@ -106,3 +105,5 @@ Falls die Bedienung den Befehl verstanden hat führt sie ihn aus. Wenn sie den B
 ![](Images_Wohnzimmer/Spracherkennung_Menu.PNG)
 
 ![](Images_Wohnzimmer/Spracherkennung_WieBitte.jpeg)
+#
+## Aufbau
