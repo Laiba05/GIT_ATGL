@@ -101,7 +101,8 @@ Um die Spracherkennung zu aktivieren geht man auf Start -> Einstellungen -> Erle
 
 #### Anwendung - Spracherkennung
 Mithilfe eines Spracheingabegeräts können Befehle mit der Spracherkennung ausgeführt werden. Hierzu drückt man den Knopf mit dem Symbol eines Mikrofons und gibt einen Befehl per Headset oder Mikrofon ein.
-Falls die Bedienung den Befehl verstanden hat führt er ihn aus. Wenn er den Befehl nicht verstanden hat, zeigt die Anzeige den Text "Wie bitte?". Danach bekommt man die Möglichkeit nochmal einen Befehl einzugeben.
+Falls die Bedienung den Befehl verstanden hat führt sie ihn aus. Wenn sie den Befehl nicht verstanden hat, zeigt die Anzeige den Text "Wie bitte?". Danach bekommt man die Möglichkeit nochmal einen Befehl einzugeben.
 
 ![](Images_Wohnzimmer/Spracherkennung_Menu.PNG)
 
+![](Images_Wohnzimmer/Spracherkennung_WieBitte.PNG)
