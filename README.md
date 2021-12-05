@@ -35,7 +35,7 @@ Beschreibung
 # Bild
 Beschreibung
 #
-## Eingabegerät - FABI
+## Eingabegerät - FlipMouse
  Was ist das
 ### FABI Einstellungen
 # Bild
