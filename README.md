@@ -37,4 +37,14 @@ Beschreibung
 #
 ## Eingabegerät - FABI
  Was ist das
-# FABI Einstellungen
+### FABI Einstellungen
+# Bild
+Beschreibung
+# Bild
+Beschreibung
+#
+## Betriebssysteme
+TEXT
+### Accesibility - Bildschirmlupe
+Windows bringt mit der Bildschirmlupe eine praktische Funktion mit, die es erlaubt, den aktuellen Bildschirminhalt vergrößert anzuzeigen. Das hilft, wenn Sie Schwierigkeiten beim Ablesen des Bildschirms haben.
+
