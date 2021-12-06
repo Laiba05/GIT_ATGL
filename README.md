@@ -18,22 +18,40 @@ Die Tatsache, dass Zeigefinger und Daumen (am linken Arm) funktionstüchtig sind
 Die Klientin Sandra hofft, Licht, Temperatur, Jalousien und viele elektronische Geräte wie Fernseher, Musikanlagen und Spielzeug selbstständig steuern zu können. Außerdem möchte sie den Computer so steuern können, dass sie online gehen, E-Mails schreiben und beantworten kann. Außerdem möchte sie mit Hilfe von Phillips Hue Go oder Infrarotlicht Sounds kreieren, Computerspiele adaptieren und visuelle Effekte erzeugen. Ihr letzter Wunsch ist, dass sie ohne Hilfe ihr Smartphone zum SMS Versenden oder Anrufe tätigen verwenden kann.
 #
 ## AsTeRICs Grid
-Was ist das
+
 ![](Images_Grid_WZ/01_Main_Grid.jpg)
-# Beschreibung
+Als HAuptmenü gibt es eine Auswahl der verschiedenen Räume
+# Wohnzimmer Hauptgrid
 ![](Images_Grid_WZ/02_WZmain_Grid.jpg)
-# Beschreibung
+Hier können Licht allgemein ein/aus gechaltet werden, sowie über eine weitere Schaltfläche in ein untermenü navigiert werden, um die Leds zu dimmen.
+Um die Temperatur einzustellen, kann auch in ein untermenü navigiert werden.
+Für die Mediensteuerung gibt es ebenfalls ein weiteres Untermenü.
+Die Jalousien werden nach Druck auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter/hinauf bewegt, es sei denn es wird "Jalousien STOPP" gedrückt.
+# Temperatur einstellen Wohnzimmer
 ![](Images_Grid_WZ/03_TemperaturMain_Grid.jpg)
-# Beschreibung
+Die Temperatur kann auf 20°C, 22°C, 24°C eingestellt werden.
+Heizung EIN oder AUS kann ausgewählt werden, sowie Absenken.
+# Lichtsteuerung Wohnzimmer
 ![](Images_Grid_WZ/04_LichtDimmenMain_Grid.jpg)
-# Beschreibung
+DIe Lichtseuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst.
+Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% oder 65% gedimmt werden.
+# Mediensteuerung Wohnzimmer
 ![](Images_Grid_WZ/05_WZmediensteuerung_Grid.jpg)
-# Beschreibung
+Auswahlmenü, welches Gerät gesteuert werden soll.
+Tv führt zu einem untergrid zur Fernsehsteuerung, Radio zu einem untergrid Radiosteuerung.
+Spielzeug Ein/Aus schaltet ein Spielzeug direkt ein/aus
+# Radiiosteuerung Wohnzimmer
 ![](Images_Grid_WZ/06_Radiosteuerung_Grid.jpg)
-# Beschreibung
+Es klnnen verschiedene voreingestellte Radiosender ausgewählt werden ( Ö1, Ö3, Hard Rock, FM4, ORF).
+Das Radio ein/aus geschalten werden, die lautstärke erhöht/verringert werden.
+Es kann auch manuell zwischen Radiosendern gewechselt werden.
+# Fernsehsteuerung Wohnzimmer
 ![](Images_Grid_WZ/07_WZ_TVsteuerung_Grid.jpg)
-# Beschreibung
-#
+Fernsehsteuerung mit Nummernpad zur eingabe eines Senderkanals. 
+Der Fernseher kann ein/aus geschalten werden, die Lautstärke erhöht/verringert werden.
+Es kann auch manuell zwischen Fernsehsendern gewechselt werden.
+Quelle auswählen dient zur auswahl anderer Geräte, die am TV angeschlossen sind.
+
 ## Eingabegeräte - FlipMouse & FABI
 Was sind diese Geräte und wofür.
 ### FlipMouse
