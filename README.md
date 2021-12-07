@@ -55,22 +55,29 @@ Es kann auch manuell zwischen Fernsehsendern gewechselt werden.
 Quelle auswählen dient zur auswahl anderer Geräte, die am TV angeschlossen sind.
 
 ## Eingabegeräte - FlipMouse & FABI
-Was sind diese Geräte und wofür.
 ### FlipMouse
+
+Beschreib was die Flipmouse ist
+
 #### FlipMouse Einstellungen
-# Bild
+
+![](Images_Wohnzimmer/Config_FlipMouse.jpeg)
+
 Beschreibung
-# Bild
-Beschreibung
-#### FlipMouse Anwendung
+
 ### FABI
 #### FABI Einstellungen
-# Bild
+
+![](Images_Wohnzimmer/Config_FABI.jpeg)
+
 Beschreibung
-# Bild
-Beschreibung
+
 #### FABI Anwendung
-#
+
+![](Images_Wohnzimmer/Anwendung.jpeg)
+
+Beschreibung
+
 ## Betriebssystem (Windows) - Accesibility
 TEXT
 ### Bildschirmlupe
