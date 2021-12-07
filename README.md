@@ -19,6 +19,8 @@ Die Klientin Sandra hofft, Licht, Temperatur, Jalousien und viele elektronische 
 #
 ## AsTeRICs Grid
 
+AsTeRICS Grid ist so konzipiert, dass jeder es verwenden kann. Es kann durch normales Klicken oder Berühren der Maus oder durch Bewegen oder Scannen von Personen mit eingeschränkten motorischen Fähigkeiten eingegeben werden. Die Eingabemethode kann an die Bedürfnisse des Benutzers angepasst werden. Das Scannen kann durch Tasten auf der Tastatur, Zusatztasten (wie FABI) oder unkonventionelle Optionen (wie Signale von EMG-Muskelsensoren) ausgelöst werden.
+
 ![](Images_Grid_WZ/01_Main_Grid.jpg)
 Als Hauptmenü gibt es eine Auswahl der verschiedenen Räume
 # Wohnzimmer Hauptgrid
