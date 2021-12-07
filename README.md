@@ -44,7 +44,7 @@ Heizung EIN oder AUS kann ausgewählt werden, sowie Absenken.
 
 DIe Lichtseuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst.
 Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% oder 65% gedimmt werden.
-#### Mediensteuerung Wohnzimmer
+### Mediensteuerung Wohnzimmer
 
 ![](Images_Grid_WZ/05_WZmediensteuerung_Grid.jpg)
 
