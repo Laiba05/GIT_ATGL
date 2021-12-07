@@ -69,9 +69,6 @@ Quelle auswählen dient zur auswahl anderer Geräte, die am TV angeschlossen sin
 
 ## Eingabegeräte - FlipMouse & FABI
 ### FlipMouse
-
-Beschreib was die Flipmouse ist
-
 #### FlipMouse Einstellungen
 
 ![](Images_Wohnzimmer/Config_FlipMouse.jpeg)
@@ -88,8 +85,6 @@ Um das Fabi zu konfigurieren wurde die Fabiwebseite (fabi.asterics.eu) aufgerufe
 #### FABI Anwendung
 
 ![](Images_Wohnzimmer/Anwendung.jpeg)
-
-Beschreibung
 
 ## Betriebssystem (Windows) - Accesibility
 
