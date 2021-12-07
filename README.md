@@ -37,7 +37,7 @@ Heizung EIN oder AUS kann ausgewählt werden, sowie Absenken.
 ![](Images_Grid_WZ/04_LichtDimmenMain_Grid.jpg)
 DIe Lichtseuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst.
 Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% oder 65% gedimmt werden.
-##### Mediensteuerung Wohnzimmer
+#### Mediensteuerung Wohnzimmer
 ![](Images_Grid_WZ/05_WZmediensteuerung_Grid.jpg)
 Auswahlmenü, welches Gerät gesteuert werden soll.
 Tv führt zu einem untergrid zur Fernsehsteuerung, Radio zu einem untergrid Radiosteuerung.
