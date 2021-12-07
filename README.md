@@ -23,31 +23,31 @@ AsTeRICS Grid ist so konzipiert, dass jeder es verwenden kann. Es kann durch nor
 
 ![](Images_Grid_WZ/01_Main_Grid.jpg)
 Als Hauptmenü gibt es eine Auswahl der verschiedenen Räume
-# Wohnzimmer Hauptgrid
+### Wohnzimmer Hauptgrid
 ![](Images_Grid_WZ/02_WZmain_Grid.jpg)
 Hier können Licht allgemein ein/aus gechaltet werden, sowie über eine weitere Schaltfläche in ein untermenü navigiert werden, um die Leds zu dimmen.
 Um die Temperatur einzustellen, kann auch in ein untermenü navigiert werden.
 Für die Mediensteuerung gibt es ebenfalls ein weiteres Untermenü.
 Die Jalousien werden nach Druck auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter/hinauf bewegt, es sei denn es wird "Jalousien STOPP" gedrückt.
-# Temperatur einstellen Wohnzimmer
+### Temperatur einstellen Wohnzimmer
 ![](Images_Grid_WZ/03_TemperaturMain_Grid.jpg)
 Die Temperatur kann auf 20°C, 22°C, 24°C eingestellt werden.
 Heizung EIN oder AUS kann ausgewählt werden, sowie Absenken.
-# Lichtsteuerung Wohnzimmer
+### Lichtsteuerung Wohnzimmer
 ![](Images_Grid_WZ/04_LichtDimmenMain_Grid.jpg)
 DIe Lichtseuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst.
 Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% oder 65% gedimmt werden.
-# Mediensteuerung Wohnzimmer
+##### Mediensteuerung Wohnzimmer
 ![](Images_Grid_WZ/05_WZmediensteuerung_Grid.jpg)
 Auswahlmenü, welches Gerät gesteuert werden soll.
 Tv führt zu einem untergrid zur Fernsehsteuerung, Radio zu einem untergrid Radiosteuerung.
 Spielzeug Ein/Aus schaltet ein Spielzeug direkt ein/aus
-# Radiosteuerung Wohnzimmer
+### Radiosteuerung Wohnzimmer
 ![](Images_Grid_WZ/06_Radiosteuerung_Grid.jpg)
 Es klnnen verschiedene voreingestellte Radiosender ausgewählt werden ( Ö1, Ö3, Hard Rock, FM4, ORF).
 Das Radio ein/aus geschalten werden, die lautstärke erhöht/verringert werden.
 Es kann auch manuell zwischen Radiosendern gewechselt werden.
-# Fernsehsteuerung Wohnzimmer
+### Fernsehsteuerung Wohnzimmer
 ![](Images_Grid_WZ/07_WZ_TVsteuerung_Grid.jpg)
 Fernsehsteuerung mit Nummernpad zur eingabe eines Senderkanals. 
 Der Fernseher kann ein/aus geschalten werden, die Lautstärke erhöht/verringert werden.
