@@ -4,7 +4,7 @@
 ## Use Case - Sandra
 #
 ### Aufgabenstellung
-Aufgabe ist es, unter Berücksichtigung des gewählten Raumes technische Lösungen nach Sandras Wünschen zu entwickeln und anzuwenden. Der Raum für den diese Gruppe sich entschieden hat ist das Wohnzimmer.
+Aufgabe ist es, unter Berücksichtigung des gewählten Raumes, technische Lösungen nach Sandras Wünschen zu entwickeln und anzuwenden. Der Raum für den diese Gruppe sich entschieden hat, ist das Wohnzimmer.
 
 ### Kurzbeschreibung Klientin: Sandra
 Die modernen Hilfsmittel, die wir zur Verfügung haben, sind ideal dafür der Klientin Sandra, ihren Wunsch nach einem selbstständigeren Leben zu erfüllen. Weil sie nicht nur körperlich beeinträchtigt ist, sondern auch eine starke Sehschwäche hat, müssen die Hilfsmittel klug gewählt werden.
@@ -22,33 +22,46 @@ Die Klientin Sandra hofft, Licht, Temperatur, Jalousien und viele elektronische 
 AsTeRICS Grid ist so konzipiert, dass jeder es verwenden kann. Es kann durch normales Klicken oder Berühren der Maus oder durch Bewegen oder Scannen von Personen mit eingeschränkten motorischen Fähigkeiten eingegeben werden. Die Eingabemethode kann an die Bedürfnisse des Benutzers angepasst werden. Das Scannen kann durch Tasten auf der Tastatur, Zusatztasten (wie FABI) oder unkonventionelle Optionen (wie Signale von EMG-Muskelsensoren) ausgelöst werden.
 
 ![](Images_Grid_WZ/01_Main_Grid.jpg)
+
 Als Hauptmenü gibt es eine Auswahl der verschiedenen Räume
+
 ### Wohnzimmer Hauptgrid
 ![](Images_Grid_WZ/02_WZmain_Grid.jpg)
+
 Hier können Licht allgemein ein/aus gechaltet werden, sowie über eine weitere Schaltfläche in ein untermenü navigiert werden, um die Leds zu dimmen.
 Um die Temperatur einzustellen, kann auch in ein untermenü navigiert werden.
 Für die Mediensteuerung gibt es ebenfalls ein weiteres Untermenü.
 Die Jalousien werden nach Druck auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter/hinauf bewegt, es sei denn es wird "Jalousien STOPP" gedrückt.
+
 ### Temperatur einstellen Wohnzimmer
 ![](Images_Grid_WZ/03_TemperaturMain_Grid.jpg)
+
 Die Temperatur kann auf 20°C, 22°C, 24°C eingestellt werden.
 Heizung EIN oder AUS kann ausgewählt werden, sowie Absenken.
+
 ### Lichtsteuerung Wohnzimmer
 ![](Images_Grid_WZ/04_LichtDimmenMain_Grid.jpg)
+
 DIe Lichtseuerung ist für Wohn-, Schlaf- und Küchenbereich in einem Grid zusammengefasst.
 Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn und Schlafzimmer die Lichter auf 35% oder 65% gedimmt werden.
 #### Mediensteuerung Wohnzimmer
+
 ![](Images_Grid_WZ/05_WZmediensteuerung_Grid.jpg)
+
 Auswahlmenü, welches Gerät gesteuert werden soll.
 Tv führt zu einem untergrid zur Fernsehsteuerung, Radio zu einem untergrid Radiosteuerung.
 Spielzeug Ein/Aus schaltet ein Spielzeug direkt ein/aus
+
 ### Radiosteuerung Wohnzimmer
 ![](Images_Grid_WZ/06_Radiosteuerung_Grid.jpg)
+
 Es klnnen verschiedene voreingestellte Radiosender ausgewählt werden ( Ö1, Ö3, Hard Rock, FM4, ORF).
 Das Radio ein/aus geschalten werden, die lautstärke erhöht/verringert werden.
 Es kann auch manuell zwischen Radiosendern gewechselt werden.
+
 ### Fernsehsteuerung Wohnzimmer
 ![](Images_Grid_WZ/07_WZ_TVsteuerung_Grid.jpg)
+
 Fernsehsteuerung mit Nummernpad zur eingabe eines Senderkanals. 
 Der Fernseher kann ein/aus geschalten werden, die Lautstärke erhöht/verringert werden.
 Es kann auch manuell zwischen Fernsehsendern gewechselt werden.
@@ -63,14 +76,14 @@ Beschreib was die Flipmouse ist
 
 ![](Images_Wohnzimmer/Config_FlipMouse.jpeg)
 
-Beschreibung
+Die FlipMouse wurde auf der Fabiwebseite (flipmouse.asterics.eu) nach unseren Bedürfnissen konfiguriert. 
 
 ### FABI
 #### FABI Einstellungen
 
 ![](Images_Wohnzimmer/Config_FABI.jpeg)
 
-Beschreibung
+Um das Fabi zu konfigurieren wurde die Fabiwebseite (fabi.asterics.eu) aufgerufen. Dabei wurde ein Slot zum Hill Climb Racing spielen erstellt und ein weiterer Slot zum benutzen der Grid Oberfläche. 
 
 #### FABI Anwendung
 
@@ -79,7 +92,9 @@ Beschreibung
 Beschreibung
 
 ## Betriebssystem (Windows) - Accesibility
-TEXT
+
+Microsoft ist bestrebt, seine Produkte und Dienste für alle so zugänglich und nutzbar wie möglich zu machen. Windows 10 enthält Barrierefreiheitsfunktionen, von denen alle Benutzer profitieren können. Diese Funktionen erleichtern die Anpassung des Computers und bieten Benutzern unterschiedlicher Erfahrungsstufen Optionen zur Verbesserung der Windows-Erfahrung.
+
 ### Bildschirmlupe
 
 Die Bildschrimlupe ist eine Funktion von Windows die dabei helfen soll, den akutellen Bildschriminhalt zu vergrößern. Da Sandra nur Buchstaben in dreifacher Größe erkennen, löst diese Funktion ihre Probleme wenn sie mit dem Computer arbeitet.
