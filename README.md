@@ -70,6 +70,9 @@ Quelle auswählen dient zur auswahl anderer Geräte, die am TV angeschlossen sin
 
 ## Eingabegeräte - FlipMouse & FABI
 ### FlipMouse
+
+FLipMouse ist ein Kit alternativer Eingabegeräte für Computer und andere elektronische Geräte. Der richtungsunabhängige Joystick der FlipMouse ist sehr sensibel und kann subtile Bewegungen wie Mund- oder Fingerbewegungen auswerten. Klickaktivitäten können durch Veränderung des Drucks auf das Mundstück (Nippen/Saugen) oder durch Anschließen eines externen Tasters erreicht werden. Dies ermöglicht eine präzise Steuerung von Maus und Tastatur sowie eine kabellose Steuerung des Geräts über Infrarotsignale oder Bluetooth.
+
 #### FlipMouse Einstellungen
 
 ![](Images_Wohnzimmer/Config_FlipMouse.jpeg)
@@ -77,15 +80,20 @@ Quelle auswählen dient zur auswahl anderer Geräte, die am TV angeschlossen sin
 Die FlipMouse wurde auf der Fabiwebseite (flipmouse.asterics.eu) nach unseren Bedürfnissen konfiguriert. 
 
 ### FABI
+
+FABI (Flexible Assistive Button Interface) ist ein Eingabegerät für einen Computer oder ein Smartphone mit max. 9 Anschlüssen. An diesen Anschlüssen können bis zu 9 Tastern oder selbstgemachte elektrische Kontakte angeschlossen werden. Mithilfe von FABI ist es möglich den Mauszeiger zu steuern, sowie das Drücken mithilfe von Taster. Die Funktionen werden durch eine grafische Software angepasst.
+
 #### FABI Einstellungen
 
 ![](Images_Wohnzimmer/Config_FABI.jpeg)
 
 Um das Fabi zu konfigurieren wurde die Fabiwebseite (fabi.asterics.eu) aufgerufen. Dabei wurde ein Slot zum Hill Climb Racing spielen erstellt und ein weiterer Slot zum benutzen der Grid Oberfläche. 
 
-#### FABI Anwendung
+#### FlipMouse + FABI Anwendung
 
 ![](Images_Wohnzimmer/Anwendung.jpeg)
+
+Der FABI sowie die FlipMouse werden an den Laptop angeschlossen. Hierbei wird ein USB Kabel verwendet. 
 
 ## Betriebssystem (Windows) - Accesibility
 
