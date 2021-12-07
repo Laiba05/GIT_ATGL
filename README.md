@@ -145,4 +145,3 @@ Falls die Bedienung den Befehl verstanden hat führt sie ihn aus. Wenn sie den B
 
 ![](Images_Wohnzimmer/Spracherkennung_WieBitte.jpeg)
 #
-## Aufbau
