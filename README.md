@@ -77,7 +77,11 @@ FLipMouse ist ein Kit alternativer Eingabegeräte für Computer und andere elekt
 
 ![](Images_Wohnzimmer/Config_FlipMouse.jpeg)
 
-Die FlipMouse wurde auf der Fabiwebseite (flipmouse.asterics.eu) nach unseren Bedürfnissen konfiguriert. 
+Die FlipMouse wurde auf der Fabiwebseite (flipmouse.asterics.eu) nach unseren Bedürfnissen konfiguriert.
+
+#### FlipMouse Messwerte
+
+![](Images_Grid_WZ/Messwerte.jpeg)
 
 ### FABI
 
