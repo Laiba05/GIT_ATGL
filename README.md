@@ -190,9 +190,11 @@ Der Farbfilter ist für BenutzerInnen die farbenblind sind. Diese Einstellung is
 
 Es gibt mehrere Optionen für den Farbfilter. Sandra leidet unter Protanopie, dass heißt das dieser Filter aktiviert wird. Jedoch kann mit dem Regler die Intensität eingestellt werden.
 
-### Nachricht schreiben -iPhone
+### Nachricht schreiben - iPhone
 
 https://user-images.githubusercontent.com/95292673/145266870-2d591137-86a1-462d-bbca-3a6fc3928e08.mp4
+
+
 
 ## Aufbau
 
