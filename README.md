@@ -158,21 +158,37 @@ Falls die Bedienung den Befehl verstanden hat führt sie ihn aus. Wenn sie den B
 
 ### Einstellungen
 
+Apple bittet sehr viele Möglichkeit um die Bedienung von iPhones zu erleichtern. Da Sandra Sehschwächen hat, können auf dem iPhone Einstellungen vorgenommen werden.
+
 ![](Images_Wohnzimmer/Farbfilter_iPhone.jpg)
 
+Einstellungen -> Erleichterte Bedienung. Hier findet man die Einstellungen für alle Erleichterungen.
 
 ![](Images_Wohnzimmer/Sehen_iPhone.jpeg)
 
+Unter der Kategorie "Sehen", werden alle Einstellungen für Meschen mit Sehschwächen angezeigt.
+Das "VoiceOver" spricht die Bildschrimobjekte aus, ähnlich wie bei "Gesprochene Inhalte". 
+Das "Zoom" vergrößert den gesamten Bildschrim.
+Bei der Einstellung "Anzeige & Textgröße" kann der Text auf dem gesamten Smartphone fetter dargestallt werden. Außerdem kann man die Textgröße einstellen.
+Bei der "Audiobeschreibung" werdn vorhandene Audiobeschreibungen automatisch abgespielt.
 
 ![](Images_Wohnzimmer/Einstellungen_iPhone.jpeg)
 
+Unter der Einstellung "Anzeige & Textgröße" können nun mehrere Einstellungen vorgenommen werden. Da Sandra an Protanopie leidet und nur Buchstaben in dreifacher größe sehen kann, muss der Kontrast erhöht werden. Hier wird der Farbkontrast zwischen dem App-Vordergrund und dem Hintergrund erhöht.
 
 ![](Images_Wohnzimmer/Einstellungen2_iPhone.jpeg)
 
+Der Farbfilter ist für BenutzerInnen die farbenblind sind. Diese Einstellung ist sehr wichtig für Sandra, daher muss sie aktiviert werden.
 
 ### Farbfilter
 
 ![](Images_Wohnzimmer/Farbfilter_an.jpeg)
+
+Es gibt mehrere Optionen für den Farbfilter. Sandra leidet unter Protanopie, dass heißt das dieser Filter aktiviert wird. Jedoch kann mit dem Regler die Intensität eingestellt werden.
+
+### Nachricht schreiben -iPhone
+
+https://user-images.githubusercontent.com/95292673/145266870-2d591137-86a1-462d-bbca-3a6fc3928e08.mp4
 
 ## Aufbau
 
