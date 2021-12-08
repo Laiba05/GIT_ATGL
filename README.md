@@ -94,7 +94,7 @@ FABI (Flexible Assistive Button Interface) ist ein Eingabegerät für einen Comp
 
 Um das Fabi zu konfigurieren wurde die Fabiwebseite (fabi.asterics.eu) aufgerufen. Dabei wurde ein Slot zum Hill Climb Racing spielen erstellt und ein weiterer Slot zum benutzen der Grid Oberfläche. 
 
-#### FlipMouse + FABI Anwendung
+### FlipMouse + FABI Anwendung
 
 ![](Images_Wohnzimmer/Anwendung.jpeg)
 
@@ -195,7 +195,8 @@ Es gibt mehrere Optionen für den Farbfilter. Sandra leidet unter Protanopie, da
 
 https://user-images.githubusercontent.com/95292673/145266870-2d591137-86a1-462d-bbca-3a6fc3928e08.mp4
 
-
+Im Video sieht man, wie per Sprachsteuerung mit Siri eine Nachricht gesendet wird. Jedoch kann Siri das ganze iPhone steuern.
+Mit dem Befehl "Hey Siri", wird Siri aktiviert und führt den Befehl aus, der ihr vorgegeben wird.
 
 ## Aufbau
 
