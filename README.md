@@ -161,4 +161,4 @@ Falls die Bedienung den Befehl verstanden hat führt sie ihn aus. Wenn sie den B
 
 ![](Images_Wohnzimmer/Aufbau2.jpeg)
 
-hier text
+Es wurde derselbe Aufbau für alle 3 Gruppen verwendet. Für uns von Nutzen waren die beiden Buttons welche an der Linken Armlehne angebracht worden sowie die schwarze Flipmaus. Die bereits montierte Flipmaus konnte leider nicht verwendet werden, wodurch eine zweite mit Klebeband angebracht wurde. Aufgrund von Sandras Beeinträchtigung wurden die beiden Buttons an der linken Seite des Elektrorollstuhles angebracht. Zur visuellen Darstellung des Grids wurde ein Laptop verwendet welche in angenehmer Position links vom Rollstuhl montiert wurde.
