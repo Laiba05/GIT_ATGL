@@ -24,21 +24,20 @@ AsTeRICS Grid ist so konzipiert, dass jeder es verwenden kann. Es kann durch nor
 
 ![](Images_Grid_WZ/01_Main_Grid.jpg)
 
-Als Hauptmenü gibt es eine Auswahl der verschiedenen Räume
+Als Hauptmenü gibt es eine Auswahl der 3 verschiedenen Räume.
 
 ### Wohnzimmer Hauptgrid
 ![](Images_Grid_WZ/02_WZmain_Grid.jpg)
 
-Hier können Licht allgemein ein/aus gechaltet werden, sowie über eine weitere Schaltfläche in ein untermenü navigiert werden, um die Leds zu dimmen.
-Um die Temperatur einzustellen, kann auch in ein untermenü navigiert werden.
+Im Wohnzimmer Grid kann das Licht allgemein ein/aus gechaltet werden, zudem kann man über eine Schaltfläche in ein untermenü navigiert werden, um die Leds zu dimmen.
+Um die Temperatur einzustellen, kann ein untergrid geöffnet werden.
 Für die Mediensteuerung gibt es ebenfalls ein weiteres Untermenü.
 Die Jalousien werden nach Druck auf "Jalousie HOCH" / "Jalousie RUNTER" vollständig herunter/hinauf bewegt, es sei denn es wird "Jalousien STOPP" gedrückt.
 
 ### Temperatur einstellen Wohnzimmer
 ![](Images_Grid_WZ/03_TemperaturMain_Grid.jpg)
 
-Die Temperatur kann auf 20°C, 22°C, 24°C eingestellt werden.
-Heizung EIN oder AUS kann ausgewählt werden, sowie Absenken.
+Die Temperatur kann auf 20°C, 22°C, 24°C eingestellt werden. Die Nachtabsenkung kann aktiviert sowie deaktiviert werden. Die Schaltfläche Energie Sparen aktiviert eine voreinsgetsellte Temperatur (z.b. 18/19°C).
 
 ### Lichtsteuerung Wohnzimmer
 ![](Images_Grid_WZ/04_LichtDimmenMain_Grid.jpg)
@@ -51,12 +50,12 @@ Es können hier die jeweiligen Lampen ein/aus geschaltet werden, sowie für Wohn
 
 Auswahlmenü, welches Gerät gesteuert werden soll.
 Tv führt zu einem untergrid zur Fernsehsteuerung, Radio zu einem untergrid Radiosteuerung.
-Spielzeug Ein/Aus schaltet ein Spielzeug direkt ein/aus
+Spielzeug Ein/Aus schaltet ein Spielzeug direkt ein/aus.
 
 ### Radiosteuerung Wohnzimmer
 ![](Images_Grid_WZ/06_Radiosteuerung_Grid.jpg)
 
-Es klnnen verschiedene voreingestellte Radiosender ausgewählt werden ( Ö1, Ö3, Hard Rock, FM4, ORF).
+Es können verschiedene voreingestellte Radiosender ausgewählt werden ( Ö1, Ö3, Hard Rock, FM4, ORF).
 Das Radio ein/aus geschalten werden, die lautstärke erhöht/verringert werden.
 Es kann auch manuell zwischen Radiosendern gewechselt werden.
 
@@ -82,6 +81,8 @@ Die FlipMouse wurde auf der Fabiwebseite (flipmouse.asterics.eu) nach unseren Be
 #### FlipMouse Messwerte
 
 ![](Images_Grid_WZ/Messwerte.jpeg)
+
+Evaluierung der Flipmaus anhand von Fittstask2D. 
 
 ### FABI
 
